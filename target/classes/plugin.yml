@@ -1,0 +1,3 @@
+name: Respawn
+version: '1.0-SNAPSHOT'
+main: dev.windx.respawn.Main

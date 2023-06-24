@@ -1,0 +1,3 @@
+name: Respawn
+version: '${project.version}'
+main: dev.windx.respawn.Main
